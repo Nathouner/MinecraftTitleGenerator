@@ -12,9 +12,6 @@
       "variants": {
         "neon": {}
       }
-    },
-    "realms": {
-      "author": "Nathouner"
     }
   },
   "overlays": {
